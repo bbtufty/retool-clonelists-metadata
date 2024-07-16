@@ -7,11 +7,11 @@
 			"These are defaults that Retool requires, don't modify this file.",
 			"Check user-config.yaml for user-editable settings."
 		],
-		"lastUpdated": "28 April 2024",
+		"lastUpdated": "16 July 2024",
 		"minimumVersion": "2.3.6"
 	},
 
-	"cloneListMetadataUrl": "https://raw.githubusercontent.com/unexpectedpanda/retool-clonelists-metadata/main",
+	"cloneListMetadataUrl": "https://raw.githubusercontent.com/Daeymon/retool-clonelists-metadata/main",
 	"programUrl": "https://raw.githubusercontent.com/unexpectedpanda/retool/main",
 
 	"userConfig": "config/user-config.yaml",
