@@ -1,0 +1,750 @@
+{
+	"description": {
+		"name": "Sony - PlayStation Portable (PSN) (No-Intro)",
+		"lastUpdated": "01 September 2024",
+		"minimumVersion": "2.3.8"
+	},
+
+	"variants": [
+		{
+			"group": "Angry Birds (Minis)",
+			"titles": [
+				{"searchTerm": "Angry Birds (Chillingo) (Minis)"},
+				{"searchTerm": "Angry Birds (Rovio) (Minis)"},
+				{"searchTerm": "Angry Birds (NPUZ00119) (Minis)"},
+				{"searchTerm": "Angry Birds (NPUZ00241) (Minis)"}
+			]
+		},
+		{
+			"group": "Ape Escape - On the Loose",
+			"titles": [
+				{"searchTerm": "Ape Escape - On the Loose"},
+				{"searchTerm": "Ape Escape P"}
+			]
+		},
+		{
+			"group": "Arcade Pool & Snooker (Minis)",
+			"titles": [
+				{"searchTerm": "Arcade Pool & Snooker (Minis)"},
+				{"searchTerm": "Arcade Pool (Minis)"}
+			]
+		},
+		{
+			"group": "Batman - Arkham Asylum - The Road to Arkham - Digital Comic",
+			"categories": ["Promotional"],
+			"titles": [
+				{"searchTerm": "Batman - Arkham Asylum - The Road to Arkham - Digital Comic"}
+			]
+		},
+		{
+			"group": "Buzz! Quiz World - Sci-Fi Movies Pack (DLC)",
+			"titles": [
+				{"searchTerm": "Buzz! Quiz World - Sci-Fi Movies Pack (DLC)"},
+				{"searchTerm": "Buzz! Quiz World - Sci-Fi Movies Quiz (DLC)"},
+				{"searchTerm": "Buzz! Quiz World - Science-Fiction-Filme-Quiz (DLC)"}
+			]
+		},
+		{
+			"group": "Buzz! Quiz World - The Comedy Movie Quiz (DLC)",
+			"titles": [
+				{"searchTerm": "Buzz! Quiz World - The Comedy Movie Quiz (DLC)"},
+				{"searchTerm": "Buzz! Quiz World - Comedy Movies Quiz (DLC)"}
+			]
+		},
+		{
+			"group": "Buzz! Quiz World - Video Games Pack (DLC)",
+			"titles": [
+				{"searchTerm": "Buzz! Quiz World - Video Games Pack (DLC)"},
+				{"searchTerm": "Buzz! Quiz World - Video Games Quiz (DLC)"},
+				{"searchTerm": "Buzz! Quiz World - Videospiele-Quiz (DLC)"}
+			]
+		},
+		{
+			"group": "Carnivores - Dinosaur Hunter (Minis)",
+			"titles": [
+				{"searchTerm": "Carnivores - Dinosaur Hunter (Minis)"},
+				{"searchTerm": "Carnivores - Dinosaur Hunter"}
+			]
+		},
+		{
+			"group": "Castle Rustle (Minis)",
+			"titles": [
+				{"searchTerm": "Castle Rustle (Minis)"},
+				{"searchTerm": "Castle Rustle"}
+			]
+		},
+		{
+			"group": "Castlevania - The Dracula X Chronicles",
+			"titles": [
+				{"searchTerm": "Castlevania - The Dracula X Chronicles"},
+				{"searchTerm": "Castlevania - Dracula X Chronicles"}
+			]
+		},
+		{
+			"group": "Creature Defense",
+			"titles": [
+				{"searchTerm": "Creature Defense"},
+				{"searchTerm": "Elemental Monster TD Portable"}
+			]
+		},
+		{
+			"group": "Disgaea Infinite",
+			"titles": [
+				{"searchTerm": "Disgaea Infinite"},
+				{"searchTerm": "Disgaea Infinite - English Version"},
+				{"searchTerm": "Disgaea Infinite - Japanese Version"}
+			]
+		},
+		{
+			"group": "Dissidia 012 - Prologus Final Fantasy",
+			"titles": [
+				{"searchTerm": "Dissidia 012 - Prologus Final Fantasy"},
+				{"searchTerm": "Dissidia 012 Prologus - Duodecim Final Fantasy"}
+			]
+		},
+		{
+			"group": "Everybody's Golf - PSPgo Promo",
+			"categories": ["Promotional"],
+			"titles": [
+				{"searchTerm": "Everybody's Golf - PSPgo Promo"}
+			]
+		},
+		{
+			"group": "Everyday Shooter",
+			"titles": [
+				{"searchTerm": "Everyday Shooter"},
+				{"searchTerm": "Riff - Everyday Shooter"}				
+			]
+		},
+		{
+			"group": "Fly Fu (Minis)",
+			"titles": [
+				{"searchTerm": "Fly Fu (Minis)"},
+				{"searchTerm": "Fly Flu (Minis)"}				
+			]
+		},
+		{
+			"group": "Gladiator Begins - Ikaros' Wing (DLC)",
+			"titles": [
+				{"searchTerm": "Gladiator Begins - Ikaros' Wing (DLC)"},
+				{"searchTerm": "Gladiator Begins - Ikaros's Wing (DLC)"}				
+			]
+		},
+		{
+			"group": "Gods Eater Burst (DLC)",
+			"titles": [
+				{"searchTerm": "Gods Eater Burst (DLC)"},
+				{"searchTerm": "Gods Eater Burst - Additional Content Pack (DLC)"}				
+			]
+		},
+		{
+			"group": "Hot Shots Shorties - Blue Pack",
+			"titles": [
+				{"searchTerm": "Hot Shots Shorties - Blue Pack"},
+				{"searchTerm": "Everybody's Stress Buster - Blue"}
+			]
+		},
+		{
+			"group": "Hot Shots Shorties - Green Pack",
+			"titles": [
+				{"searchTerm": "Hot Shots Shorties - Green Pack"},
+				{"searchTerm": "Everybody's Stress Buster - Green"}
+			]
+		},
+		{
+			"group": "Hot Shots Shorties - Red Pack",
+			"titles": [
+				{"searchTerm": "Hot Shots Shorties - Red Pack"},
+				{"searchTerm": "Everybody's Stress Buster - Red"}
+			]
+		},
+		{
+			"group": "Hot Shots Shorties - Yellow Pack",
+			"titles": [
+				{"searchTerm": "Hot Shots Shorties - Yellow Pack"},
+				{"searchTerm": "Everybody's Stress Buster - Yellow"}
+			]
+		},
+		{
+			"group": "IL-2 Sturmovik - Birds of Prey",
+			"titles": [
+				{"searchTerm": "IL-2 Sturmovik - Birds of Prey"},
+				{"searchTerm": "IL 2 Sturmovik - Birds of Prey"}				
+			]
+		},
+		{
+			"group": "Jak and Daxter - The Lost Frontier",
+			"titles": [
+				{"searchTerm": "Jak and Daxter - The Lost Frontier"},
+				{"searchTerm": "Jak and Daxter The Lost Frontier"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Fruit Salad Level Kit (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Fruit Salad Level Kit (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Fruit Salad Level Pack (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Lunar Landing Costume (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Lunar Landing Costume (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Moon Landing Costume (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - MotorStorm Hessian Costume (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - MotorStorm Hessian Costume (DLC)"},
+				{"searchTerm": "LittleBigPlanet - MotorStorm Hessian Stitch Costume (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - MotorStorm Hessian Level Kit (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - MotorStorm Hessian Level Kit (DLC)"},
+				{"searchTerm": "LittleBigPlanet - MotorStorm Hessian Stitch Level Kit (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Robin Hood Men in Sacks Costume (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Robin Hood Men in Sacks Costume (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Friar Tuck Costume (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Sack Circus Costume (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Sack Circus Costume (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Sack Circus Extravaganza Costume (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Sack Circus Level Kit (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Sack Circus Level Kit (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Sack Circus Extravaganza Level Kit (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - The Temples Theme Level Kit (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - The Temples Theme Level Kit (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Temples Level Kit (DLC)"}				
+			]
+		},
+		{
+			"group": "LittleBigPlanet - Yuletide Sack Costume (DLC)",
+			"titles": [
+				{"searchTerm": "LittleBigPlanet - Yuletide Sack Costume (DLC)"},
+				{"searchTerm": "LittleBigPlanet - Yuletide Sack Costume Pack (DLC)"}				
+			]
+		},
+		{
+			"group": "LocoRoco - Midnight Carnival - Official Strategy Guide",
+			"categories": ["Manuals"],
+			"titles": [
+				{"searchTerm": "LocoRoco - Midnight Carnival - Official Strategy Guide"}
+			]
+		},
+		{
+			"group": "LocoRoco - Midnight Carnival - Official Strategy Guide (Unlock Key)",
+			"categories": ["Manuals"],
+			"titles": [
+				{"searchTerm": "LocoRoco - Midnight Carnival - Official Strategy Guide (Unlock Key)"}
+			]
+		},
+		{
+			"group": "No Heroes Allowed!",
+			"titles": [
+				{"searchTerm": "No Heroes Allowed!"},
+				{"searchTerm": "No Heroes Allowed"}				
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 1 - Blizzard Tower Legion (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 1 - Blizzard Tower Legion (DLC)"},
+				{"searchTerm": "Patapon 3 - Blizzard Tower Ice Legion (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 1 - Eye Before Me, Except After Fifty (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 1 - Eye Before Me, Except After Fifty (DLC)"},
+				{"searchTerm": "Patapon 3 - The Cyclops Hunt (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 1 - King Manboroth (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 1 - King Manboroth (DLC)"},
+				{"searchTerm": "Patapon 3 - Manboroth (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 1 - Tarantus (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 1 - Tarantus (DLC)"},
+				{"searchTerm": "Patapon 3 - Teranteth (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 1 - Witch and the Thunderbeast (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 1 - Witch and the Thunderbeast (DLC)"},
+				{"searchTerm": "Patapon 3 - The Witch and the Thunder Beast (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 2 - Craggy Monsters (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 2 - Craggy Monsters (DLC)"},
+				{"searchTerm": "Patapon 3 - Craggy Monsters (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 2 - Darantula (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 2 - Darantula (DLC)"},
+				{"searchTerm": "Patapon 3 - Darantula (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 3 - Depths of Despair (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 3 - Depths of Despair (DLC)"},
+				{"searchTerm": "Patapon 3 - Depths of Despair (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 2 - Desert Deth Squad (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 2 - Desert Deth Squad (DLC)"},
+				{"searchTerm": "Patapon 3 - Desert Deth Squad (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 2 - Dokaknel (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 2 - Dokaknel (DLC)"},
+				{"searchTerm": "Patapon 3 - Doraknel (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 3 - Fenicchi (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 3 - Fenicchi (DLC)"},
+				{"searchTerm": "Patapon 3 - Fenicchi (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 2 - Forest Blight Fight (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 2 - Forest Blight Fight (DLC)"},
+				{"searchTerm": "Patapon 3 - Forest Wanderers (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 3 - Gheek Dongora (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 3 - Gheek Dongora (DLC)"},
+				{"searchTerm": "Patapon 3 - Dongora (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - Mission Pack 3 - Revenge of the Thunder God (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - Mission Pack 3 - Revenge of the Thunder God (DLC)"},
+				{"searchTerm": "Patapon 3 - Revenge of the Thunder God (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - The Perfect Marching Challenge (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - The Perfect Marching Challenge (DLC)"},
+				{"searchTerm": "Patapon 3 - The Perfect March (DLC)"}
+			]
+		},
+		{
+			"group": "Patapon 3 - World Map (DLC)",
+			"titles": [
+				{"searchTerm": "Patapon 3 - World Map (DLC)"},
+				{"searchTerm": "Patapon 3 - The Patapon World Map (DLC)"}
+			]
+		},
+		{
+			"group": "Red Bull X-Fighters (Minis)",
+			"titles": [
+				{"searchTerm": "Red Bull X-Fighters (Minis)"},
+				{"searchTerm": "RedBull X-Fighters (Minis)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - 30 Seconds to Mars - The Kill (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - 30 Seconds to Mars - The Kill (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - The Kill (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Avenged Sevenfold - Afterlife (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Avenged Sevenfold - Afterlife (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Afterlife (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Belly - Feed the Tree (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Belly - Feed the Tree (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Feed the Tree (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Blink-182 - The Rock Show (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Blink-182 - The Rock Show (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - The Rock Show (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Bullet for My Valentine - Waking the Demon (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Bullet for My Valentine - Waking the Demon (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Waking the Demon (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Dead Kennedys - California Uber Alles (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Dead Kennedys - California Uber Alles (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - California Uber Alles (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Disturbed - Inside the Fire (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Disturbed - Inside the Fire (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Inside the Fire (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Dixie Chicks - Sin Wagon (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Dixie Chicks - Sin Wagon (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Sin Wagon (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Dream Theater - Constant Motion (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Dream Theater - Constant Motion (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Constant Motion (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Dropkick Murphys - I'm Shipping Up to Boston (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Dropkick Murphys - I'm Shipping Up to Boston (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - I'm Shipping Up to Boston (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Evanescence - Bring Me To Life (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Evanescence - Bring Me To Life (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Bring Me to Life (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Foo Fighters - Lonely as You (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Foo Fighters - Lonely as You (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Lonely as You (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Foo Fighters - Monkey Wrench (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Foo Fighters - Monkey Wrench (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Monkey Wrench (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Foreigner - Headknocker (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Foreigner - Headknocker (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Headknocker (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Godsmack - I Stand Alone (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Godsmack - I Stand Alone (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - I Stand Alone (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Green Day - Know Your Enemy (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Green Day - Know Your Enemy (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Know Your Enemy (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Iron Maiden - The Number of the Beast - Original Version (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Iron Maiden - The Number of the Beast - Original Version (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - The Number of the Beast (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Iron Maiden - The Trooper (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Iron Maiden - The Trooper (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - The Trooper (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Jane's Addiction - Had a Dad (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Jane's Addiction - Had a Dad (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Had a Dad (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Killswitch Engage - My Curse (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Killswitch Engage - My Curse (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - My Curse (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Lynyrd Skynyrd - Gimme Three Steps (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Lynyrd Skynyrd - Gimme Three Steps (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Gimme Three Steps (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Megadeth - Wake Up Dead (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Megadeth - Wake Up Dead (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Wake Up Dead (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Motley Crue - Dr. Feelgood (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Motley Crue - Dr. Feelgood (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Motley Crue - Dr Feelgood (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Muse - Hysteria (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Muse - Hysteria (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Hysteria (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Mute Math - Typical (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Mute Math - Typical (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Typical (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - No Doubt - Excuse Me Mr. (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - No Doubt - Excuse Me Mr. (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Excuse Me Mr. (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - No Doubt - Just a Girl (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - No Doubt - Just a Girl (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Just a Girl (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Oasis - Wonderwall (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Oasis - Wonderwall (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Wonderwall (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Paramore - Crushcrushcrush (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Paramore - Crushcrushcrush (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Crushcrushcrush (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Pearl Jam - Jeremy (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Pearl Jam - Jeremy (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Jeremy (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Pixies - Here Comes Your Man (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Pixies - Here Comes Your Man (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Here Comes your Man (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Radiohead - My Iron Lung (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Radiohead - My Iron Lung (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - My Iron Lung (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Red Hot Chili Peppers - Under the Bridge (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Red Hot Chili Peppers - Under the Bridge (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Under the Bridge (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - R.E.M. - Losing My Religion (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - R.E.M. - Losing My Religion (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Losing My Religion (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Rush - Red Barchetta (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Rush - Red Barchetta (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Red Barchetta (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Rush - The Trees (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Rush - The Trees (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Rush - The Trees - Vault Edition (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Sleater-Kinney - You're No Rock N' Roll Fun (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Sleater-Kinney - You're No Rock N' Roll Fun (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - You're No Rock'n'Roll Fun (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Sonic Youth - Cool Thing (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Sonic Youth - Cool Thing (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Kool Thing (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Steely Dan - My Old School (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Steely Dan - My Old School (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - My Old School (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Stone Roses - Love Spreads (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Stone Roses - Love Spreads (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Love Spreads (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Stone Temple Pilots - Sex Type Thing (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Sex Type Thing - Stone Temple Pilots (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Sex Type Thing (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Styx - Renegade (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Styx - Renegade (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Renegade (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - The Fratellis - Flathead (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - The Fratellis - Flathead (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Flathead (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - The Grateful Dead - Casey Jones (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - The Grateful Dead - Casey Jones (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Casey Jones (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - The James Gang - Funk #49 (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - The James Gang - Funk #49 (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - Funk #49 (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - The Offspring - All I Want (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - The Offspring - All I Want (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - All I Want (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - The Zombies - She's Not There (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - The Zombies - She's Not There (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - She's Not There (DLC)"}
+			]
+		},
+		{
+			"group": "Rock Band Unplugged - Thin Lizzy - The Boys Are Back in Town - Live (DLC)",
+			"titles": [
+				{"searchTerm": "Rock Band Unplugged - Thin Lizzy - The Boys Are Back in Town - Live (DLC)"},
+				{"searchTerm": "Rock Band Unplugged - The Boys are Back in Town (Live)"}
+			]
+		},
+		{
+			"group": "Rocket Racing (Minis)",
+			"titles": [
+				{"searchTerm": "Rocket Racing (Minis)"},
+				{"searchTerm": "Aero Racer (Minis)"}
+			]
+		},
+		{
+			"group": "Sheep Defense (Minis)",
+			"titles": [
+				{"searchTerm": "Sheep Defense (Minis)"},
+				{"searchTerm": "Sheep Defence (Minis)"}
+			]
+		},
+		{
+			"group": "Speedball 2 - Evolution (Minis)",
+			"titles": [
+				{"searchTerm": "Speedball 2 - Evolution (Minis)"},
+				{"searchTerm": "Speedball 2 Evolution (Minis)"}
+			]
+		},
+		{
+			"group": "T.N.K. III (Minis)",
+			"titles": [
+				{"searchTerm": "T.N.K. III (Minis)"},
+				{"searchTerm": "TNK III (Minis)"}
+			]
+		}
+	]
+}
