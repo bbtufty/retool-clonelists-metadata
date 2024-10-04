@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "NEC - PC Engine CD & TurboGrafx CD (Redump)",
-		"lastUpdated": "11 January 2023",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -130,13 +130,6 @@
 			"titles": [
 				{"searchTerm": "Shadow of the Beast"},
 				{"searchTerm": "Shadow of the Beast - Mashou no Okite"}
-			]
-		},
-		{
-			"group": "Sherlock Holmes - Consulting Detective - Volume 2",
-			"titles": [
-				{"searchTerm": "Sherlock Holmes - Consulting Detective - Volume 2"},
-				{"searchTerm": "Sherlock Holmes - Consulting Detective Vol. II"}
 			]
 		},
 		{

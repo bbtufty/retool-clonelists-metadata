@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy Color (No-Intro)",
-		"lastUpdated": "26 December 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -344,9 +344,7 @@
 			"group": "Dragon Ball Z 3 - 2002 Fighting",
 			"titles": [
 				{"searchTerm": "Dragon Ball Z 3 - 2002 Fighting"},
-				{"searchTerm": "Dragon Ball Z Gedou 2005", "priority": 2},
-				{"searchTerm": "Dragon Ball Z - 2002 Fighting", "priority": 3}
-
+				{"searchTerm": "Dragon Ball Z Gedou 2005", "priority": 2}
 			]
 		},
 		{
@@ -454,13 +452,6 @@
 			],
 			"compilations": [
 				{"searchTerm": "Full Time Soccer & Hang Time Basketball"}
-			]
-		},
-		{
-			"group": "G.B Corp.",
-			"titles": [
-				{"searchTerm": "G.B Corp."},
-				{"searchTerm": "G.B Corp. (No Link Cable)", "priority": 2}
 			]
 		},
 		{
@@ -1343,13 +1334,6 @@
 			"group": "San Guo Wushang 5",
 			"titles": [
 				{"searchTerm": "San Guo Wushang 5", "localNames": {"chinese (traditional)": "叁國無雙５"}}
-			]
-		},
-		{
-			"group": "Sapphire Hotel - The Little Tales of",
-			"titles": [
-				{"searchTerm": "Sapphire Hotel - The Little Tales of"},
-				{"searchTerm": "Yellow Sapphire Hotel - The Little Tales of", "priority": 2}
 			]
 		},
 		{

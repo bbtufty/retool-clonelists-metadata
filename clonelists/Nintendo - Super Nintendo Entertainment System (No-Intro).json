@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Super Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "10 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -76,6 +76,15 @@
 			"titles": [
 				{"searchTerm": "Aerobiz Supersonic"},
 				{"searchTerm": "Air Management II - Koukuu Ou o Mezase"}
+			]
+		},
+		{
+			"group": "Alien Cat 2",
+			"titles": [
+				{"searchTerm": "Alien Cat 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Alien Cat 2 - Enhanced Edition"}
 			]
 		},
 		{
@@ -512,15 +521,6 @@
 			"titles": [
 				{"searchTerm": "Doomsday Warrior"},
 				{"searchTerm": "Taiketsu!! Brass Numbers"}
-			]
-		},
-		{
-			"group": "Dorke & Ymp",
-			"titles": [
-				{"searchTerm": "Dorke & Ymp"},
-				{"searchTerm": "Dorque & Imp (Mine Level)", "priority": 2},
-				{"searchTerm": "Dorque & Imp (Palace Level)", "priority": 2},
-				{"searchTerm": "Dorque & Imp (Woods Level)", "priority": 2}
 			]
 		},
 		{
@@ -1496,13 +1496,6 @@
 			]
 		},
 		{
-			"group": "NBA Jam",
-			"titles": [
-				{"searchTerm": "NBA Jam"},
-				{"searchTerm": "NBA Jam XXXX", "priority": 2}
-			]
-		},
-		{
 			"group": "NBA Showdown",
 			"titles": [
 				{"searchTerm": "NBA Pro Basketball '94 - Bulls vs Suns"},
@@ -1904,10 +1897,8 @@
 		{
 			"group": "River City Girls Zero",
 			"titles": [
-				{"searchTerm": "River City Girls Zero (RCG Translation, Switch)"},
-				{"searchTerm": "Shin Nekketsu Kouha - Kunio-tachi no Banka"},
-				{"searchTerm": "River City Girls Zero", "priority": 2},
-				{"searchTerm": "River City Girls Zero (Original Translation, Switch)", "priority": 2}
+				{"searchTerm": "River City Girls Zero"},
+				{"searchTerm": "Shin Nekketsu Kouha - Kunio-tachi no Banka"}
 			]
 		},
 		{
@@ -1982,13 +1973,6 @@
 			"titles": [
 				{"searchTerm": "Romance of the Three Kingdoms IV - Wall of Fire"},
 				{"searchTerm": "Sangokushi IV"}
-			]
-		},
-		{
-			"group": "SA1 Demonstration Program",
-			"categories": ["Applications", "Demos"],
-			"titles": [
-				{"searchTerm": "SA1 Demonstration Program"}
 			]
 		},
 		{
@@ -2624,17 +2608,21 @@
 			]
 		},
 		{
-			"group": "Super Turrican Collection",
+			"group": "Super Turrican",
 			"titles": [
-				{"searchTerm": "Super Turrican Collection"},
-				{"searchTerm": "Super Turrican", "priority": 2}
+				{"searchTerm": "Super Turrican"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Turrican Collection"}
 			]
 		},
 		{
-			"group": "Super Turrican 2 Special Edition",
+			"group": "Super Turrican 2",
 			"titles": [
-				{"searchTerm": "Super Turrican 2 Special Edition"},
-				{"searchTerm": "Super Turrican 2", "priority": 2}
+				{"searchTerm": "Super Turrican 2"}
+			],
+			"supersets": [
+				{"searchTerm": "Super Turrican 2 Special Edition"}
 			]
 		},
 		{

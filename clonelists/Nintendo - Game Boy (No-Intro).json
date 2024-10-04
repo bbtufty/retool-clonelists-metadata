@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Game Boy (No-Intro)",
-		"lastUpdated": "05 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -566,13 +566,6 @@
 					]
 				},
 				{"searchTerm": "World Cup Striker"}
-			]
-		},
-		{
-			"group": "Escape 2042 - The Truth Defenders",
-			"titles": [
-				{"searchTerm": "Escape 2042 - The Truth Defenders"},
-				{"searchTerm": "Escape 2042 - Les Defenseurs de la Verite"}
 			]
 		},
 		{
@@ -1617,14 +1610,6 @@
 			]
 		},
 		{
-			"group": "Sheep It Up",
-			"titles": [
-				{"searchTerm": "Sheep It Up"},
-				{"searchTerm": "Sheep It Up (CatSkull)", "priority": 2},
-				{"searchTerm": "Sheep It Up (Yastuna)", "priority": 3}
-			]
-		},
-		{
 			"group": "Simpsons, The - Bart & the Beanstalk",
 			"titles": [
 				{"searchTerm": "Simpsons, The - Bart & the Beanstalk"},
@@ -1970,13 +1955,6 @@
 				{"searchTerm": "Track Meet"},
 				{"searchTerm": "Litti's Summer Sports"},
 				{"searchTerm": "Track Meet - Mezase! Barcelona"}
-			]
-		},
-		{
-			"group": "Traumatarium",
-			"titles": [
-				{"searchTerm": "Traumatarium"},
-				{"searchTerm": "Traumatarium (Broke Studio)", "priority": 2}
 			]
 		},
 		{

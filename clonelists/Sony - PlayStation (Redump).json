@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sony - PlayStation (Redump)",
-		"lastUpdated": "19 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"mias": [
@@ -11,18 +11,8 @@
 		"Casper - Friends Around the World (Korea)",
 		"Cool Boarders 2 (USA) (Beta) (1997-08-25)",
 		"Ehrgeiz - God Bless the Ring (Japan) (Demo 2)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-02-04)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-06)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-06-29)",
-		"Frogger 2 - Swampy's Revenge (Europe) (Beta) (2000-07-25)",
-		"Frogger 2 - Swampy's Revenge (Europe) (En,Fr,De,It) (Beta) (2000-03-01)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-04-05)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-09)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-06-14)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-18)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-25)",
-		"Frogger 2 - Swampy's Revenge (USA) (Beta) (2000-07-31)",
 		"Grid Runner (USA) (Beta) (1996-06-08)",
+		"Land Before Time, The - Great Valley Racing Adventure (Korea)",
 		"Marvel Super Heroes (Europe) (Beta) (1996-12-24)",
 		"Ore no Shikabane o Koete Yuke (Japan) (Demo)",
 		"Rosco McQueen (Europe) (En,Fr,De,Es,It) (Beta) (1997-06-19)",
@@ -4765,7 +4755,7 @@
 		{
 			"group": "Persona",
 			"titles": [
-				{"searchTerm": "Megami Ibunroku Persona - Be Your True Mind"},
+				{"searchTerm": "Megami Ibunroku - Persona - Be Your True Mind"},
 				{"searchTerm": "Persona"}
 			]
 		},

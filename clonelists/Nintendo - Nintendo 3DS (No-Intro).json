@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo 3DS (No-Intro)",
-		"lastUpdated": "05 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -564,13 +564,6 @@
 			"titles": [
 				{"searchTerm": "Gon BakuBaku BakuBaku Adventure"},
 				{"searchTerm": "Gon WaguWagu Adventure"}
-			]
-		},
-		{
-			"group": "Gyro Sensor Calibration CTR",
-			"categories": ["Applications"],
-			"titles": [
-				{"searchTerm": "Gyro Sensor Calibration CTR"}
 			]
 		},
 		{

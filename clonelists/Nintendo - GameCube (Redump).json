@@ -1,14 +1,12 @@
 {
 	"description": {
 		"name": "Nintendo - GameCube (Redump)",
-		"lastUpdated": "28 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"mias": [
-		"LEGO Super Soccer Adventure (Europe) (Proto)",
-		"SmaBro DX Event-you Disc (Japan)",
-		"WWE WrestleMania X8 (Japan) (Taikenban)"
+		"SmaBro DX Event-you Disc (Japan)"
 	],
 
 	"variants": [

@@ -1,14 +1,13 @@
 {
 	"description": {
 		"name": "Sega - Dreamcast (Redump)",
-		"lastUpdated": "19 April 2024",
-		"minimumVersion": "2.00"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"mias": [
 		"Chicken Run (Japan) (Beta) (2000-08-01)",
-		"Dream Preview Vol. 1 (Japan)",
-		"Slave Zero (USA) (Rev A)"
+		"Dream Preview Vol. 1 (Japan)"
 	],
 
 	"variants": [
@@ -726,13 +725,6 @@
 			]
 		},
 		{
-			"group": "Snappers - 09 Chairs",
-			"categories": ["Audio"],
-			"titles": [
-				{"searchTerm": "Snappers - 09 Chairs"}
-			]
-		},
-		{
 			"group": "Sonic Adventure",
 			"titles": [
 				{"searchTerm": "Sonic Adventure"},
@@ -939,13 +931,6 @@
 			"titles": [
 				{"searchTerm": "Virtua Athlete 2000"},
 				{"searchTerm": "Virtua Athlete 2K"}
-			]
-		},
-		{
-			"group": "Virtua Fighter History & VF4",
-			"categories": ["Video"],
-			"titles": [
-				{"searchTerm": "Virtua Fighter History & VF4"}
 			]
 		},
 		{

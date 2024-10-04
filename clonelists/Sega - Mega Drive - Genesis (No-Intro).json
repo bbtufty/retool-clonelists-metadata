@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Sega - Mega Drive - Genesis (No-Intro)",
-		"lastUpdated": "07 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -107,15 +107,6 @@
 			]
 		},
 		{
-			"group": "AlterEgo",
-			"titles": [
-				{"searchTerm": "AlterEgo"}
-			],
-			"supersets": [
-				{"searchTerm": "AlterEgo - Remastered"}
-			]
-		},
-		{
 			"group": "Arkagis Revolution",
 			"titles": [
 				{"searchTerm": "Arkagis Revolution"},
@@ -137,13 +128,6 @@
 			]
 		},
 		{
-			"group": "Astebros",
-			"titles": [
-				{"searchTerm": "Astebros (PixelHeart)"},
-				{"searchTerm": "Astebros (neofid-studios.com)", "priority": 2}
-			]
-		},
-		{
 			"group": "Atomic Runner",
 			"titles": [
 				{"searchTerm": "Atomic Runner"},
@@ -158,11 +142,10 @@
 			]
 		},
 		{
-			"group": "Awesome Possum... ...Kicks Dr. Machino's Butt",
+			"group": "Awesome Possum Kicks Dr. Machino's Butt",
 			"titles": [
 				{"searchTerm": "Awesome Possum"},
-				{"searchTerm": "Awesome Possum... ...Kicks Dr. Machino's Butt"},
-				{"searchTerm": "Awesome Possum Kicks Dr Machino's Butt!", "priority": 2}
+				{"searchTerm": "Awesome Possum Kicks Dr. Machino's Butt"}
 			]
 		},
 		{
@@ -358,9 +341,9 @@
 			]
 		},
 		{
-			"group": "Chong Chong Weiji - A Bug's Life",
+			"group": "Bug's Life, A - Chong Chong Weiji",
 			"titles": [
-				{"searchTerm": "Chong Chong Weiji - A Bug's Life", "localNames": {"chinese (traditional)": "蟲蟲危機"}}
+				{"searchTerm": "Bug's Life, A - Chong Chong Weiji", "localNames": {"chinese (traditional)": "蟲蟲危機"}}
 			]
 		},
 		{
@@ -444,20 +427,6 @@
 			"titles": [
 				{"searchTerm": "Cyborg Justice"},
 				{"searchTerm": "Robot Wreckage", "priority": 2}
-			]
-		},
-		{
-			"group": "Dahna - Megami Tanjou",
-			"titles": [
-				{"searchTerm": "Dahna"},
-				{"searchTerm": "Dahna - Megami Tanjou"}
-			]
-		},
-		{
-			"group": "Darius - Extra Version",
-			"titles": [
-				{"searchTerm": "Darius - Extra Version"},
-				{"searchTerm": "Darius - Extra Version (Strictly Limited)"}
 			]
 		},
 		{
@@ -577,7 +546,7 @@
 			"titles": [
 				{"searchTerm": "Exile"},
 				{"searchTerm": "Exile - Toki no Hazama he"},
-				{"searchTerm": "Shikong Yi Bian", "priority": 2}
+				{"searchTerm": "Shikong Yibian", "priority": 2}
 			]
 		},
 		{
@@ -682,6 +651,14 @@
 				{"searchTerm": "Classic Collection"},
 				{"searchTerm": "Game no Kanzume Otokuyou"},
 				{"searchTerm": "Sega Top Five"}
+			]
+		},
+		{
+			"group": "Flintstones, The",
+			"titles": [
+				{"searchTerm": "Flintstones, The"},
+				{"searchTerm": "Flintstones, The (Taito)"},
+				{"searchTerm": "Flintstones, The (Ocean)"}
 			]
 		},
 		{
@@ -1025,13 +1002,6 @@
 			]
 		},
 		{
-			"group": "Mad Stalker - Full Metal Forth",
-			"titles": [
-				{"searchTerm": "Mad Stalker - Full Metal Forth"},
-				{"searchTerm": "Mad Stalker - Full Metal Forth (Strictly Limited)"}
-			]
-		},
-		{
 			"group": "Madden NFL '94",
 			"titles": [
 				{"searchTerm": "Madden NFL '94"},
@@ -1041,7 +1011,7 @@
 		{
 			"group": "Magic Girl - Featuring Ling Ling the Little Witch",
 			"titles": [
-				{"searchTerm": "Magic Girl - Featuring Ling Ling the Little Witch"},
+				{"searchTerm": "Magic Girl"},
 				{"searchTerm": "Xiao Monu - Magic Girl"}
 			]
 		},
@@ -1199,7 +1169,7 @@
 			"group": "NHL '94",
 			"titles": [
 				{"searchTerm": "NHL '94"},
-				{"searchTerm": "NHL '94 (Re-release)", "priority": 2}
+				{"searchTerm": "NHL '94 (NHL 06)", "priority": 2}
 			]
 		},
 		{
@@ -1540,13 +1510,6 @@
 			]
 		},
 		{
-			"group": "Sacred Line Genesis",
-			"titles": [
-				{"searchTerm": "Sacred Line Genesis"},
-				{"searchTerm": "Sacred Line Genesis (Legacy Edition)", "priority": 2}
-			]
-		},
-		{
 			"group": "Sagaia",
 			"titles": [
 				{"searchTerm": "Darius II"},
@@ -1717,7 +1680,8 @@
 		{
 			"group": "Sonic The Hedgehog 2",
 			"titles": [
-				{"searchTerm": "Sonic The Hedgehog 2"}
+				{"searchTerm": "Sonic The Hedgehog 2"},
+				{"searchTerm": "Sonic The Hedgehog 2 (Sonic Compilation ~ Sonic Classics)", "priority": 2}
 			],
 			"compilations": [
 				{"searchTerm": "Sonic Compilation", "priority": 2}
@@ -1985,14 +1949,6 @@
 			]
 		},
 		{
-			"group": "Tanglewood",
-			"titles": [
-				{"searchTerm": "Tanglewood"},
-				{"searchTerm": "Tanglewood (Windows)", "priority": 2},
-				{"searchTerm": "Tanglewood (GOG, Itch)", "priority": 3}
-			]
-		},
-		{
 			"group": "Taz in Escape from Mars",
 			"titles": [
 				{"searchTerm": "Taz in Escape from Mars"},
@@ -2112,7 +2068,7 @@
 			"group": "Top Fighter 2000 MK VIII",
 			"titles": [
 				{"searchTerm": "Top Fighter 2000 MK VIII"},
-				{"searchTerm": "Top Fighter 2005", "localNames": {"chinese (traditional)": "Ｔｏｐ　Ｆｉｇｈｔｅｒ　２００５－格鬥王"}}
+				{"searchTerm": "Top Fighter 2005 - Gedou Wang", "localNames": {"chinese (traditional)": "Ｔｏｐ　Ｆｉｇｈｔｅｒ　２００５－格鬥王"}}
 			]
 		},
 		{
@@ -2147,7 +2103,7 @@
 		{
 			"group": "Tunshi Tiandi III - Sanguo Waizhuan",
 			"titles": [
-				{"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan (Chinese Fighter)", "localNames": {"chinese (traditional)": "吞食天地　Ⅲ　－　三国外传"}},
+				{"searchTerm": "Tunshi Tiandi III - Sanguo Waizhuan - Chinese Fighter", "localNames": {"chinese (traditional)": "吞食天地　Ⅲ　－　三国外传"}},
 				{"searchTerm": "Tenchi o Kurau III - Sangoku Gaiden", "priority": 2}
 			]
 		},
@@ -2382,14 +2338,6 @@
 				{"searchTerm": "European Club Soccer"},
 				{"searchTerm": "J. League Champion Soccer"},
 				{"searchTerm": "World Trophy Soccer"}
-			]
-		},
-		{
-			"group": "Xump 2 - Back to Space",
-			"titles": [
-				{"searchTerm": "Xump 2 - Back in Space"},
-				{"searchTerm": "Xump 2 - Back to Space"},
-				{"searchTerm": "Xump 2 - Back to Space (Physical Edition)", "priority": 2}
 			]
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Nintendo - Nintendo Entertainment System (No-Intro)",
-		"lastUpdated": "05 April 2024",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -248,13 +248,6 @@
 			"categories": ["Multimedia"],
 			"titles": [
 				{"searchTerm": "Anamanaguchi - Power Supply"}
-			]
-		},
-		{
-			"group": "Anguna - Scourge of the Goblin King",
-			"titles": [
-				{"searchTerm": "Anguna - Scourge of the Goblin King"},
-				{"searchTerm": "Anguna - Scourge of the Goblin King (Limited Edition)", "priority": 2}
 			]
 		},
 		{
@@ -624,10 +617,11 @@
 			]
 		},
 		{
-			"group": "Blazing Rangers",
+			"group": "Blazing Rangers (Demo)",
+			"categories": ["Demos"],
 			"titles": [
-				{"searchTerm": "Blazing Rangers"},
-				{"searchTerm": "Honoo no Rangerman"}
+				{"searchTerm": "Blazing Rangers (Demo)"},
+				{"searchTerm": "Honoo no Rangerman (Demo)"}
 			]
 		},
 		{
@@ -635,13 +629,6 @@
 			"titles": [
 				{"searchTerm": "^Blockage \\((?:(?!NESDev .*).)*$", "nameType": "regex"},
 				{"searchTerm": "^Blockage \\(World\\) .* \\(NESDev .*\\)", "nameType": "regex", "priority": 2}
-			]
-		},
-		{
-			"group": "Blow'em Out!",
-			"titles": [
-				{"searchTerm": "Blow'em Out! (GreetingCarts)"},
-				{"searchTerm": "Blow'em Out!", "priority": 2}
 			]
 		},
 		{
@@ -1033,15 +1020,6 @@
 			]
 		},
 		{
-			"group": "Cold & Starving",
-			"titles": [
-				{"searchTerm": "Cold & Starving (Update #20)"},
-				{"searchTerm": "Cold & Starving (Update #19)", "priority": 2},
-				{"searchTerm": "Cold & Starving (Update #18)", "priority": 3},
-				{"searchTerm": "Cold & Starving (Update #17)", "priority": 4}
-			]
-		},
-		{
 			"group": "Columbus - Ougon no Yoake",
 			"titles": [
 				{"searchTerm": "Columbus - Ougon no Yoake"},
@@ -1103,33 +1081,6 @@
 			"titles": [
 				{"searchTerm": "Cowboy Kid"},
 				{"searchTerm": "Western Kids"}
-			]
-		},
-		{
-			"group": "Cowlitz Gamers Adventure, The",
-			"titles": [
-				{"searchTerm": "Cowlitz Gamers Adventure, The"}
-			],
-			"compilations": [
-				{"searchTerm": "Cowlitz Gamers Adventure Trilogy"}
-			]
-		},
-		{
-			"group": "Cowlitz Gamers' 2nd Adventure, The",
-			"titles": [
-				{"searchTerm": "Cowlitz Gamers' 2nd Adventure, The"}
-			],
-			"compilations": [
-				{"searchTerm": "Cowlitz Gamers Adventure Trilogy"}
-			]
-		},
-		{
-			"group": "Cowlitz Gamers' Lost Adventure, The",
-			"titles": [
-				{"searchTerm": "Cowlitz Gamers' Lost Adventure, The"}
-			],
-			"compilations": [
-				{"searchTerm": "Cowlitz Gamers Adventure Trilogy"}
 			]
 		},
 		{
@@ -1665,15 +1616,6 @@
 			]
 		},
 		{
-			"group": "Eskimo Bob Starring Alfonzo",
-			"titles": [
-				{"searchTerm": "Eskimo Bob Starring Alfonzo"}
-			],
-			"supersets": [
-				{"searchTerm": "Eskimo Bob Starring Alfonzo - Deluxe Edition"}
-			]
-		},
-		{
 			"group": "F-15 City War",
 			"titles": [
 				{"searchTerm": "F-15 City War"}
@@ -1889,13 +1831,6 @@
 			]
 		},
 		{
-			"group": "Flea!",
-			"titles": [
-				{"searchTerm": "Flea!"},
-				{"searchTerm": "Flea! (Broke Studio)", "priority": 2}
-			]
-		},
-		{
 			"group": "Flight of the Intruder",
 			"titles": [
 				{"searchTerm": "Flight of the Intruder"},
@@ -1936,14 +1871,6 @@
 			"titles": [
 				{"searchTerm": "Front Line"},
 				{"searchTerm": "Hassle"}
-			]
-		},
-		{
-			"group": "Full Quiet",
-			"titles": [
-				{"searchTerm": "Full Quiet"},
-				{"searchTerm": "Full Quiet (Backer Test Cartridge)", "priority": 2},
-				{"searchTerm": "Full Quiet (Regular Edition)", "priority": 3}
 			]
 		},
 		{
@@ -2226,14 +2153,6 @@
 			]
 		},
 		{
-			"group": "Haratyler",
-			"titles": [
-				{"searchTerm": "Haratyler MP"},
-				{"searchTerm": "Haratyler HG", "priority": 2},
-				{"searchTerm": "Haratyler", "priority": 3}
-			]
-		},
-		{
 			"group": "Hayauchi Super Igo",
 			"titles": [
 				{"searchTerm": "Hayauchi Super Igo"},
@@ -2278,13 +2197,6 @@
 			]
 		},
 		{
-			"group": "House in the Cemetery, The",
-			"titles": [
-				{"searchTerm": "House in the Cemetery, The"},
-				{"searchTerm": "House in the Cemetery, The (Broke Studio)"}
-			]
-		},
-		{
 			"group": "Huanxiang Chuanshuo",
 			"titles": [
 				{"searchTerm": "Huanxiang Chuanshuo"},
@@ -2324,13 +2236,6 @@
 			"titles": [
 				{"searchTerm": "Ikari II - Dogosoken"},
 				{"searchTerm": "Ikari Warriors II - Victory Road"}
-			]
-		},
-		{
-			"group": "Incident, The (Remastered)",
-			"titles": [
-				{"searchTerm": "Incident, The (Remastered)"},
-				{"searchTerm": "Incident, The", "priority": 2}
 			]
 		},
 		{
@@ -2459,13 +2364,6 @@
 			"titles": [
 				{"searchTerm": "Jungle Book, The"},
 				{"searchTerm": "Lion King, The.*?\\(Pirate\\)", "nameType": "regex", "priority": 2}
-			]
-		},
-		{
-			"group": "Justice Duel",
-			"titles": [
-				{"searchTerm": "Justice Duel"},
-				{"searchTerm": "Justice Duel (RetroGameCon 5 Edition)", "priority": 2}
 			]
 		},
 		{
@@ -2766,13 +2664,6 @@
 			]
 		},
 		{
-			"group": "Legend of Weed N' Stiff, The",
-			"titles": [
-				{"searchTerm": "Legend of Weed N' Stiff, The (Super Deluxe Version)"},
-				{"searchTerm": "Legend of Weed N' Stiff, The", "priority": 2}
-			]
-		},
-		{
 			"group": "Legend of Zelda, The",
 			"titles": [
 				{"searchTerm": "Legend of Zelda, The"},
@@ -2870,14 +2761,6 @@
 				{"searchTerm": "livenes 2A03 (Program)"},
 				{"searchTerm": "livenes VRC6 (Program)", "priority": 2},
 				{"searchTerm": "livenes S5B (Program)", "priority": 3}
-			]
-		},
-		{
-			"group": "Lizard",
-			"titles": [
-				{"searchTerm": "Lizard"},
-				{"searchTerm": "^Lizard.*?\\([0-9]{19}\\)", "nameType": "regex"},
-				{"searchTerm": "Lizard (2011)"}
 			]
 		},
 		{
@@ -3281,13 +3164,6 @@
 			]
 		},
 		{
-			"group": "Mischief Castle",
-			"titles": [
-				{"searchTerm": "Mischief Castle"},
-				{"searchTerm": "Mischief Castle (Mapper 2)", "priority": 2}
-			]
-		},
-		{
 			"group": "Missing Lands",
 			"titles": [
 				{"searchTerm": "Missing Lands DX"},
@@ -3456,13 +3332,6 @@
 			]
 		},
 		{
-			"group": "Nebs 'n Debs",
-			"titles": [
-				{"searchTerm": "Nebs 'n Debs"},
-				{"searchTerm": "Nebs 'n Debs (Kaizo)", "priority": 2}
-			]
-		},
-		{
 			"group": "Nekketsu! Street Basket - Ganbare Dunk Heroes",
 			"titles": [
 				{"searchTerm": "Nekketsu! Street Basket - Ganbare Dunk Heroes"},
@@ -3567,13 +3436,6 @@
 			"compilations": [
 				{"searchTerm": "Super Mario Bros. + Tetris + Nintendo World Cup"},
 				{"searchTerm": "Super Spike V'Ball + Nintendo World Cup"}
-			]
-		},
-		{
-			"group": "Nix - The Paradox Relic",
-			"titles": [
-				{"searchTerm": "Nix - The Paradox Relic"},
-				{"searchTerm": "Nix - The Paradox Relic (NoFlash)", "priority": 2}
 			]
 		},
 		{
@@ -3729,13 +3591,6 @@
 			]
 		},
 		{
-			"group": "Playing Nintendo in the Laundry Room",
-			"titles": [
-				{"searchTerm": "Playing Nintendo in the Laundry Room"},
-				{"searchTerm": "Playing Nintendo in the Laundry Room (No Logo Version)", "priority": 2}
-			]
-		},
-		{
 			"group": "Pocahontas",
 			"titles": [
 				{
@@ -3879,15 +3734,6 @@
 			"titles": [
 				{"searchTerm": "Pro Wres"},
 				{"searchTerm": "Pro Wrestling"}
-			]
-		},
-		{
-			"group": "Project Blue",
-			"titles": [
-				{"searchTerm": "Project Blue"}
-			],
-			"supersets": [
-				{"searchTerm": "Project Blue (Special Edition)"}
 			]
 		},
 		{
@@ -4407,10 +4253,13 @@
 			]
 		},
 		{
-			"group": "Shera and the 40 Thieves",
+			"group": "Shera and the 40 Thieves (Demo)",
+			"categories": ["Demos"],
 			"titles": [
-				{"searchTerm": "Shera and the 40 Thieves - Definitive Edition"},
-				{"searchTerm": "Shera and the 40 Thieves", "priority": 2}
+				{"searchTerm": "Shera and the 40 Thieves (Demo)"}
+			],
+			"supersets": [
+				{"searchTerm": "Shera and the 40 Thieves - Definitive Edition (Demo)"}
 			]
 		},
 		{
@@ -4589,13 +4438,6 @@
 			]
 		},
 		{
-			"group": "South Park",
-			"titles": [
-				{"searchTerm": "South Park (UNROM 512)"},
-				{"searchTerm": "South Park (UNROM)", "priority": 2}
-			]
-		},
-		{
 			"group": "Space Mutants",
 			"titles": [
 				{"searchTerm": "Space Mutants (Extendo Uncut Edition)"},
@@ -4609,15 +4451,6 @@
 			"titles": [
 				{"searchTerm": "Spider-Man - Return of the Sinister Six"},
 				{"searchTerm": "Spider-Man - Return of the Sinister Six (FK-8380)", "priority": 2}
-			]
-		},
-		{
-			"group": "Spook-o'-tron",
-			"titles": [
-				{"searchTerm": "Spook-o'-tron (2023)"},
-				{"searchTerm": "Spook-o'-tron (2022)", "priority": 2},
-				{"searchTerm": "Spook-o'-tron (Backer Edition)", "priority": 3}
-
 			]
 		},
 		{
@@ -4679,18 +4512,11 @@
 			]
 		},
 		{
-			"group": "Storied Sword, The - Demo",
+			"group": "Storied Sword, The (Demo)",
+			"categories": ["Demos"],
 			"titles": [
 				{"searchTerm": "Storied Sword, The (Demo) (GTROM)"},
-				{"searchTerm": "Storied Sword, The (Demo) (UNROM 512)", "priority": 2},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-2) (GTROM)", "priority": 3},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-2) (UNROM 512)", "priority": 4},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-1) (GTROM)", "priority": 5},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-27-1) (UNROM 512)", "priority": 6},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-2) (GTROM)", "priority": 7},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-2) (UNROM 512)", "priority": 8},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-1) (GTROM)", "priority": 9},
-				{"searchTerm": "Storied Sword, The (Demo) (2023-05-08-1) (UNROM 512)", "priority": 10}
+				{"searchTerm": "Storied Sword, The (Demo) (UNROM 512)", "priority": 2}
 			]
 		},
 		{
@@ -4960,13 +4786,6 @@
 			"titles": [
 				{"searchTerm": "Superman"},
 				{"searchTerm": "Superman (Kemco)"}
-			]
-		},
-		{
-			"group": "Swords and Runes (Limited Edition)",
-			"titles": [
-				{"searchTerm": "Swords and Runes (Limited Edition)"},
-				{"searchTerm": "Swords and Runes", "priority": 2}
 			]
 		},
 		{
@@ -5327,25 +5146,11 @@
 			]
 		},
 		{
-			"group": "Turtle Paint - Volume 1",
-			"titles": [
-				{"searchTerm": "Turtle Paint - Volume 1 (UNROM 512)"},
-				{"searchTerm": "Turtle Paint - Volume 1 (UOROM)", "priority": 2}
-			]
-		},
-		{
 			"group": "Twin Cobra",
 			"titles": [
 				{"searchTerm": "Kyuukyoku Tiger"},
 				{"searchTerm": "Twin Cobra"},
 				{"searchTerm": "Tiger (FK-C4-33)"}
-			]
-		},
-		{
-			"group": "Twin Dragons",
-			"titles": [
-				{"searchTerm": "Twin Dragons"},
-				{"searchTerm": "Twin Dragons (Broke Studio)", "priority": 2}
 			]
 		},
 		{
@@ -5418,13 +5223,6 @@
 			"titles": [
 				{"searchTerm": "Akuma no Shoutaijou"},
 				{"searchTerm": "Uninvited"}
-			]
-		},
-		{
-			"group": "UXO - Unexploded Ordnance",
-			"titles": [
-				{"searchTerm": "UXO - Unexploded Ordnance"},
-				{"searchTerm": "UXO - Unexploded Ordnance (TMG Exclusive Edition)", "priority": 2}
 			]
 		},
 		{
@@ -5727,15 +5525,6 @@
 			"titles": [
 				{"searchTerm": "Yang Jia Jiang - Yang's Troops (970100588)", "localNames": {"chinese (simplified)": "杨家将"}},
 				{"searchTerm": "Yang Jia Jiang - Yang's Troops (980186)", "priority": 2, "localNames": {"chinese (simplified)": "杨家将"}}
-			]
-		},
-		{
-			"group": "Yeah Yeah Beebiss II",
-			"titles": [
-				{"searchTerm": "Yeah Yeah Beebiss II (Haoran and Li Jing)"},
-				{"searchTerm": "Yeah Yeah Beebiss II (Colin and David)", "priority": 2},
-				{"searchTerm": "Yeah Yeah Beebiss II (RGT)", "priority": 3},
-				{"searchTerm": "Yeah Yeah Beebiss II (RIGGS)", "priority": 4}
 			]
 		},
 		{

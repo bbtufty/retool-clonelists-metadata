@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "NEC - PC Engine - TurboGrafx-16 (No-Intro)",
-		"lastUpdated": "28 April 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -74,7 +74,7 @@
 			"group": "Bravoman",
 			"titles": [
 				{"searchTerm": "Bravoman"},
-				{"searchTerm": "Chouzetsurinjin Bravoman"}
+				{"searchTerm": "Chou Zetsurinjin Bravoman"}
 			]
 		},
 		{
@@ -172,7 +172,7 @@
 			"group": "J.J. & Jeff",
 			"titles": [
 				{"searchTerm": "J.J. & Jeff"},
-				{"searchTerm": "Kato-chan Ken-chan"}
+				{"searchTerm": "Kato-chan & Ken-chan"}
 			]
 		},
 		{

@@ -1,8 +1,8 @@
 {
 	"description": {
 		"name": "Atari - 2600 (No-Intro)",
-		"lastUpdated": "05 April 2023",
-		"minimumVersion": "2.02"
+		"lastUpdated": "2024-10-04",
+		"minimumVersion": "2.3.8"
 	},
 
 	"variants": [
@@ -150,6 +150,13 @@
 			]
 		},
 		{
+			"group": "Crackpots",
+			"titles": [
+				{"searchTerm": "Crackpots"},
+				{"searchTerm": "Boom Bang"}
+			]
+		},
+		{
 			"group": "Dodge 'Em ~ Dodger Cars",
 			"titles": [
 				{"searchTerm": "Dodge 'Em"},
@@ -168,15 +175,6 @@
 			"titles": [
 				{"searchTerm": "Enduro"},
 				{"searchTerm": "Super-Ferrari"}
-			]
-		},
-		{
-			"group": "Forest",
-			"titles": [
-				{"searchTerm": "Forest (Two Player)"},
-				{"searchTerm": "Forest (Two Player) (Muted)", "priority": 2},
-				{"searchTerm": "Forest (One Player)", "priority": 3},
-				{"searchTerm": "Forest (One Player) (Muted)", "priority": 4}
 			]
 		},
 		{
@@ -416,10 +414,24 @@
 			]
 		},
 		{
+			"group": "Video Chess",
+			"titles": [
+				{"searchTerm": "Video Chess"},
+				{"searchTerm": "Chess"}
+			]
+		},
+		{
 			"group": "Wall-Defender",
 			"titles": [
 				{"searchTerm": "Wall-Defender"},
 				{"searchTerm": "Wall Break"}
+			]
+		},
+		{
+			"group": "Wizard of Wor",
+			"titles": [
+				{"searchTerm": "Wizard of Wor"},
+				{"searchTerm": "Wizard of War"}
 			]
 		}
 	]
